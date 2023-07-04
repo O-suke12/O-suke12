@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align="center">AI learner from Japan</h3>
 
-- 🌱 I’m currently learning **Computer Vision and NLP**
+- 🌱 I’m currently focusing on **Reinforcement Learning with Psycology and Biology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
